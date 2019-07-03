@@ -1,6 +1,6 @@
 # SQL-Python
 
-This file will run phyton code from mssql script and display it as table.
+It will run phyton code from mssql script and display it as table.
 
 
 ## License
